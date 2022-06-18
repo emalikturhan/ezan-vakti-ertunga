@@ -1,0 +1,3 @@
+omerapp.jks
+key alias: key0
+pass : 123456789

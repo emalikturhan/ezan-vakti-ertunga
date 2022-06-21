@@ -1,0 +1,1 @@
+<iframe id="video-player" class="video" width="560" height="315" src="<?php echo $_GET["name"]; ?>.html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay"></iframe>
